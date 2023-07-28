@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-8200"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-7800"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-7900"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-8000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-8100"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/mousetracking-daniel-2023-07-25/dlc-models/iteration-0/mousetrackingJul25-trainset95shuffle1/train/snapshot-8200"
