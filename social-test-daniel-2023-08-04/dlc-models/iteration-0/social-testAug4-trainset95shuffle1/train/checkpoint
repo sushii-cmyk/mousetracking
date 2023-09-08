@@ -1,0 +1,5 @@
+model_checkpoint_path: "/content/drive/MyDrive/Work/DeepLabCut/social-test-daniel-2023-08-04/dlc-models/iteration-0/social-testAug4-trainset95shuffle1/train/snapshot-230000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/social-test-daniel-2023-08-04/dlc-models/iteration-0/social-testAug4-trainset95shuffle1/train/snapshot-200000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/social-test-daniel-2023-08-04/dlc-models/iteration-0/social-testAug4-trainset95shuffle1/train/snapshot-210000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/social-test-daniel-2023-08-04/dlc-models/iteration-0/social-testAug4-trainset95shuffle1/train/snapshot-220000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Work/DeepLabCut/social-test-daniel-2023-08-04/dlc-models/iteration-0/social-testAug4-trainset95shuffle1/train/snapshot-230000"
